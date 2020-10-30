@@ -1,0 +1,2 @@
+# tcgcollectorassesment
+tcgcollector data scraping
